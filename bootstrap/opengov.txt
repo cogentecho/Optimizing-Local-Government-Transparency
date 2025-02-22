@@ -1,0 +1,9 @@
+"OpenGov" refers to multiple entities utilizing the name in different contexts:
+
+1. **OpenGov Inc.**: A government technology company founded in 2012, providing cloud-based software solutions for public sector accounting, budgeting, citizen services, and procurement. As of February 2024, OpenGov serves over 1,900 government entities, including state agencies, city governments, school districts, and other special districts. In February 2024, Cox Enterprises agreed to acquire OpenGov, valuing the company at $1.8 billion. citeturn0search10
+
+2. **Polkadot OpenGov**: A decentralized governance platform within the Polkadot blockchain ecosystem. OpenGov empowers the community to have full control over the network, enabling autonomous and upgradable decision-making processes. It is designed to be flexible, secure, and resistant to manipulation, ensuring legitimate and transparent community-driven governance. citeturn0search6
+
+3. **The OpenGov Foundation**: A nonpartisan, nonprofit organization established in 2012, focusing on developing software and conducting research to enhance government transparency and public engagement. The foundation has been involved in various projects aimed at improving the accessibility and responsiveness of government operations. citeturn0search11
+
+Each of these entities named "OpenGov" is actively engaged in initiatives to improve government operations, transparency, and community involvement through technology and decentralized governance. 
